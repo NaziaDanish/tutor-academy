@@ -1,0 +1,13 @@
+.list-unstyled {
+    color:rgb(6, 6, 6)
+}
+.transition{
+        transition: transform 0.3s ease-in-out;
+    }
+    
+    .transition:hover {
+        transform: scale(1.1);
+    }
+h5 p{
+    color: #000000;
+}
