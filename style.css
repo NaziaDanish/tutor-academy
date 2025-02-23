@@ -11,3 +11,10 @@
 h5 p{
     color: #000000;
 }
+@media (max-width: 991px) {
+    .navbar-toggler {
+        position: center;
+        top: 10px;
+        right: 20px;
+    }
+}
