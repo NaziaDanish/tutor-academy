@@ -11,20 +11,3 @@
 h5 p{
     color: #000000;
 }
-@media (max-width: 991px) {
-    .navbar-toggler {
-        position: center;
-        top: 10px;
-        right: 20px;
-    }
-}
-@media (max-width: 635px) and (max-height: 920px) {
-    .carousel-caption {
-        position: static; 
-        width: 100%; 
-        padding: 20px;  
-        background-color: rgba(247, 247, 247, 0.8); 
-        color: black;
-        text-align: center; 
-    }
-}
