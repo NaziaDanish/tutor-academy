@@ -36,9 +36,4 @@ h5 p{
     background-color: #0056b3;
 }
 
-@media screen and (max-width: 350px){
-    .contact-form {
-        width: 90%;
-        padding: 10px;
-}
-}
+
